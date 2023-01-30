@@ -10,13 +10,19 @@ body{
     width: 350px;
 
      }
-     
+
+     p{
+        color: gray;
+        line-height: 20px;
+     }
+
 button{
-    border: 1px solid blue;
+    border: 1px solid rgb(110, 110, 242);
     width: 135px;
     height: 40px;
-    color: blue;
+    color: rgb(100, 100, 228);
     background-color: rgb(250, 247, 247);
     margin: 10px;
 }
+
 
