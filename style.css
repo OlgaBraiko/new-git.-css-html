@@ -10,4 +10,13 @@ body{
 }
 .block2{
     width: 250px;
+
+}
+button{
+    width: 150px;
+    height: 40px;
+    border: 1px solid rgb(81, 81, 238);
+    background-color: white;
+    color: blue;
+    margin: 10px;
 }
