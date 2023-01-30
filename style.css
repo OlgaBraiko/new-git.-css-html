@@ -4,12 +4,13 @@ body{
 
 }
 
-p{
+ .block{
     
-    text-align: left;
-    color: dimgray;
+    display: flex;
+    width: 350px;
+
+     }
      
-}
 button{
     border: 1px solid blue;
     width: 135px;
