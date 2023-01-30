@@ -6,8 +6,21 @@ body{
 .block{
     color: gray;
     display: flex;
-
+    display: inline-flex;
+    justify-content: center;
+    
 }
 .block2{
-    width: 250px;
+    width: 200px;
+    line-height: 25px;
+  
+
+}
+button{
+    width: 150px;
+    height: 40px;
+    border: 1px solid rgb(81, 81, 238);
+    background-color: white;
+    color: blue;
+    margin: 20px;
 }
