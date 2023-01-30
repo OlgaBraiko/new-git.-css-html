@@ -10,3 +10,12 @@ p{
     color: dimgray;
      
 }
+button{
+    border: 1px solid blue;
+    width: 135px;
+    height: 40px;
+    color: blue;
+    background-color: rgb(250, 247, 247);
+    margin: 10px;
+}
+
